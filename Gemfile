@@ -64,6 +64,8 @@ gem 'devise'
 
 gem 'carrierwave', '~> 1.0'
 
+gem 'carrierwave-aws'
+
 gem 'figaro'
 
 gem 'fog-aws'
